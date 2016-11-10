@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layout width="400" height="300" vpos="manual" hpos="manual" margin="6,6,6,6">
+  <row>
+    <key code="NUM7" text="7"/>
+    <key code="NUM8" text="8"/>
+    <key code="NUM9" text="9"/>
+  </row>
+  <row>
+    <key code="NUM4" text="4"/>
+    <key code="NUM5" text="5"/>
+    <key code="NUM6" text="6"/>
+  </row>
+  <row>
+    <key code="NUM1" text="1"/>
+    <key code="NUM2" text="2"/>
+    <key code="NUM3" text="3"/>
+  </row>
+  <row>
+    <key code="NUM0" text="0"/>
+    <key code="DECIMAL" text="."/>
+    <key code="ENTER" text="确定"/>
+  </row>
+</layout>
